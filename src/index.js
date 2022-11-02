@@ -18,6 +18,7 @@ app.patch("//courses/:id", (request, response)=>{
 });
 app.delete("/courses/:id", (request, response)=>{
     return response.json(["Curso 2", "Curso 3"]);
+//Teste para git
 
 });
 app.listen(3333)
