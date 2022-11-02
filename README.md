@@ -1,6 +1,4 @@
-# Nome do Projeto 
-ou
-<h1 align="center">Fundamentos Node JS</h1>
+# Fundamentos Node JS
 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Node Js</a>
