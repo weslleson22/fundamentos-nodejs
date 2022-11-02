@@ -1,3 +1,5 @@
 yarn init -y para a criação do projeto
 
 yarn add express
+
+yarn add nodemon -D para não ficar reiniciando
